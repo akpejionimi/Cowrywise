@@ -1,0 +1,38 @@
+.os{
+    display: flex;
+}
+.android{
+    display: flex;
+}
+.apple{
+    display: flex;
+    margin-left: 5px;
+}
+
+.os-logo{
+    height: 60px;
+    width: 209px;
+    border-radius: 10px;
+    cursor: unset;
+    object-fit: cover;
+}
+.headtext{
+    text-align: left;
+    color: whitesmoke;
+}
+.headtext h1{
+    font-weight: bolder;
+
+}
+.headtext p{
+    opacity: .6;
+
+}
+.headtext .smart-p{
+    margin-top: -20px;
+}
+.smartdetails{
+    margin: auto;
+    width: 75%;
+    padding-top: 100px;
+}

@@ -1,0 +1,16 @@
+.nav{
+    width: 80%;
+    display: flex;
+    margin: auto;
+    justify-content: space-between;
+    padding-top: 30px;
+    color: white;
+
+}
+.Navbar{
+    background: linear-gradient(to left, #5a2bba 10%, #1ca4f6 100%);
+}
+.prod-logo{
+    /* background-color: white; */
+    color: inherit;
+}

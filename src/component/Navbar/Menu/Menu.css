@@ -1,0 +1,14 @@
+.menu span{
+    padding:15px;
+    color: inherit;
+
+}
+.btn-primary{
+    color: white;
+    background-color: #0067f5;
+    border-color: #0067f5;
+    border-radius: 100px;
+    height: 40px;
+    width: 80px;
+    border-style: none;
+}

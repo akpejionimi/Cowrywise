@@ -1,0 +1,12 @@
+.smart{
+    display: flex;
+    width: 100%;
+    overflow-x: hidden;
+    background: linear-gradient(to left, #5a2bba 10%, #1ca4f6 100%);
+}
+.smartdet{
+    flex: 50%;
+}
+.smartimg{
+    flex: 50%;
+}
