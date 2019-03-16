@@ -1,0 +1,12 @@
+.Safe{
+    display: flex;
+    width: 90%;
+    margin: auto;
+    justify-content: space-around;
+}
+.Safepics{
+/* flex: 50%; */
+}
+.Safedesc{
+    /* flex: 50%; */
+}

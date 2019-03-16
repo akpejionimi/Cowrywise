@@ -1,0 +1,21 @@
+.safeicons{
+    display: flex;
+    justify-content: space-evenly;
+}
+.safedetails{
+    width: 500px;
+    text-align: left;
+}
+.safedetails h2{
+    font-weight: bolder;
+}
+.secure{
+    width: 50px;
+    height: 50px;
+}
+.secure-text{
+    width: 100px;
+}
+.Safedesc{
+    padding-top: 100px;
+}

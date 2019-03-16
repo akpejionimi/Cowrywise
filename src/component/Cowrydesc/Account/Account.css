@@ -1,0 +1,49 @@
+.Account{
+    display: flex;
+    width: 80%;
+    margin: auto;
+    
+
+}
+
+.Account-desc{
+    /* flex: 50%; */
+    width: 400px;
+    margin: auto;
+    color: whitesmoke;
+    text-align: left;
+}
+.Account-desc h2{
+    padding: 10px 0px;
+}
+
+
+.identity{
+    width: 45px;
+    margin: auto;
+    height: 45px;
+    border-radius: 50%;
+    background-color: #180066;
+    color: white;
+    font-weight: bolder;
+    padding-top: 10px;
+    text-align: center;
+    margin-left: 70px;
+    margin-bottom: 5px;
+}
+.illustration{
+    width:350px;
+    height: 350px;
+    margin-top: 50px;
+    object-fit: cover;
+    animation-name: illustrate;
+    animation-duration: 3s;
+    transition: all ease-in-out;
+    animation-iteration-count: infinite;
+}
+
+@keyframes illustrate{
+    0%{transform: translateY(0px);}
+    50%{transform: translatey(-20px);}
+    100%{transform: translatey(0px);}
+}

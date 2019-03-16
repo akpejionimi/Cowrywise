@@ -1,0 +1,20 @@
+.Cowrydesc{
+    margin: auto;
+    background: linear-gradient(to left, #5a2bba 10%, #1ca4f6 100%);
+    padding-top: 70px;
+    
+}
+.head-desc{
+    margin: auto;
+    width: 550px;
+    color: whitesmoke;
+}
+.head-desc h2{
+    font-weight: bolder;
+}
+.head-desc p{
+    width: 430px;
+    text-align: center;
+    margin-left: 55px;
+    opacity: .8;
+}
